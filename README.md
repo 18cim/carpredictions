@@ -1,5 +1,4 @@
-# carpredictions
-CISC372 Final Report: Used Car Price Predictions
+# CISC372 Final Report: Used Car Price Predictions
 
 These are the files for my final project. 
 I have included...
