@@ -3,6 +3,6 @@
 These are the files for my final project. 
 I have included...
   1. ipynb file of my code (CarPrice.ipynb)
-  2. ppt file of my presentation (
-  3. pdf of my presentation
-  4. video of my presentation
+  2. ppt file of my presentation with voiceover (CISC372PRES.ppt)
+  3. pdf of my report (372REPORT.pdf)
+  4. docx of my report (372REPORT.docx)
